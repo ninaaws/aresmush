@@ -22,6 +22,7 @@ plugins:
   - fs3combat
   - fs3skills
   - ranks
+  - custom
   unlogged_events:
   - CronEvent
   - ConnectionEstablishedEvent
